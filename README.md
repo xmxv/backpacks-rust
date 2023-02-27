@@ -14,7 +14,7 @@ Only stacks to 1. This is configurable.
 
 Players can only equip 1 backpack at a time. Backpack slots are 15 by default. This is configurable. 
 
-**I don't have anywhere to test these plugins but the code is syntax and error free and I've used all the right libraries so I don't see why it shouldn't work.** 
+**I don't have anywhere to test these plugins but the code is well written and error free and I've used all the right libraries so I don't see why it shouldn't work.** 
 
 Report any issues. 
 
