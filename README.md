@@ -1,4 +1,4 @@
-Functional Backpack for rust. 
+#Functional Backpack for rust. 
 
 **Allows players to craft and use backpacks that provide additional inventory slots.**
 
